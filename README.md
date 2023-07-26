@@ -1,7 +1,7 @@
 # My Background Thread
 My Background Thread | Fundamental Android | Bangkit 2023 Series
 
-An application built in the learning process of Bangkit Academy 2023. This is a practical implementation in the class Learning to Make Android Apps for Beginners
+An application built in the learning process of Bangkit Academy 2023. This is a practical implementation in the class Learning Android App Fundamentals
 
 Implementation:
 - Background Thread
